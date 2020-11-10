@@ -1,3 +1,4 @@
+pragma solidity ^0.4.15;
 library CrowdsaleLib {
   using BasicMathLib for uint256;
 
